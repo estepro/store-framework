@@ -13,7 +13,7 @@
   },
   
   "responsive-layout.mobile#mobile": {
-    "children": ["rich-text#mobile", "image#desktop"]
+    "children": ["rich-text#mobile", "image#mobile"]
   },
 
   "image#desktop": {

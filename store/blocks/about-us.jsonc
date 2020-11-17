@@ -35,7 +35,8 @@
         "rich-text#home2"
     ],
     "props": {
-        "tabId": "electronics"
+        "tabId": "electronics",
+        "label": "Electronics"
         }
     },
     "tab-content.item#home1": {

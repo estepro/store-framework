@@ -18,7 +18,7 @@
           "paddingBottom": 7
         }
     },
-    "flex-layout.row#footer-left-desktop": {
+    "flex-layout.col#footer-left-desktop": {
         "children": [
           "accepted-payment-methods"
         ]
@@ -28,7 +28,7 @@
             "paymentMethods": ["mastercard", "visa", "Diners club"]
         }
     },
-    "flex-layout.row#footer-right-desktop": {
+    "flex-layout.col#footer-right-desktop": {
         "children": [
           "social-networks"
         ]

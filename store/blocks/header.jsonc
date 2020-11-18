@@ -95,5 +95,5 @@
           "vtex.menu@2.x:menu#categories",
           "header-spacer"
         ]
-      },
+      }
   }

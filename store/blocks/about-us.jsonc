@@ -31,7 +31,7 @@
         }
     },
     "tab-list.item#home2": {
-    "children": [
+    "blocks": [
         "iframe"
     ],
     "props": {
